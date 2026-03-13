@@ -71,14 +71,4 @@ IFT3395/6390 — Université de Montréal · 2020
 
 ---
 
-## 🔗 Related Projects
-
-| Project | Description | Link |
-|---|---|---|
-| RAG Chatbot | AI chatbot — LangChain · ChromaDB | [GitHub](https://github.com/samibahig/RAG_Chatbot) |
-| FAERS 2025 | FDA pharmacovigilance — 28M records | [GitHub](https://github.com/samibahig/faers-2025-pharmacovigilance) |
-| LongCovid | Metabolomic & proteomic ML — Université Laval | [GitHub](https://github.com/samibahig/RecoverProject) |
-
----
-
 *MIT License · Sami Bahig · 2020*
